@@ -1,1 +1,1 @@
-# 2021-Medico
+# Medico: Transparency in Medical Image Segmentation
