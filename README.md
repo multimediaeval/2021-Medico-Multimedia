@@ -10,7 +10,7 @@ Medical image segmentation is a topic that has garnered a lot of attention over 
 
 The data consists of a large number of endoscopic images of the colon, which have been labeled by expert gastroenterologists.
 
-*Subtask 1: Polyp Segmentation:* The polyp segmentation task asks participants to develop algorithms for segmenting polyps in images taken from endoscopies. The main focus of this task is to achieve high segmentation metrics on the supplied test dataset. Since [Medico 2020](https://multimediaeval.github.io/editions/2020/tasks/medico/), we have extended the development dataset and created a new testing dataset to which the submissions will be evaluated on.
+*Subtask 1: Polyp Segmentation:* The polyp segmentation task asks participants to develop algorithms for segmenting polyps in images taken from endoscopies. The main focus of this task is to achieve high segmentation metrics on the supplied test dataset. Since Medico 2020, we have extended the development dataset and created a new testing dataset to which the submissions will be evaluated on.
 
 *Subtask 2: Algorithm Efficiency* The algorithm efficiency task is similar to subtask one, but puts a stronger emphasis on the algorithm's speed in terms of frames-per-second. To ensure a fair evaluation, this task requires participants to submit a Docker image so that all algorithms are evaluated on the same hardware.
 
