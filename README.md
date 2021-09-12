@@ -33,8 +33,8 @@ Participants are encouraged to make their code public with their submission.
 
 The development dataset consists of 1,360 images of polyps with corresponding segmentation masks. Note that the dataset is based on HyperKvasr, a large public dataset contrainig diverse visual content from the gastrointestinal tract. Below you will find a link to the development dataset and HyperKvasir.
 
-* [Development Dataset]()
-* [HyperKvasir]()
+* [Development Dataset](https://drive.google.com/drive/folders/16MdULl8bNX3wp0OzjU33BV6EJ_YScyGd?usp=sharing)
+* [HyperKvasir](https://datasets.simula.no/hyper-kvasir/)
 
 #### Test Datset (Coming Soon)
 The testing dataset will be released on October 1st.
