@@ -16,7 +16,7 @@ The polyp segmentation task targets high-performing polyp segmentation systems. 
 Submissions will be evaluated based on the precision of the predicted masks using various segmentation metrics like pixel accuracy, precision, recall, Sørensen–Dice coefficient (Dice), and Intersection over Union (IoU). The primary metric used to rank the submissions will be IoU. The participants will receive a .csv file containing the evaluation metrics for each run.
 
 #### Subtask 2: Algorithm Efficiency
-The efficient segmentation task aims for efficient segmentation systems while still obtaining a satisfactory prediction accuracy. Model efficiency is measured in the number of frames that a model can process per second. The motivation behind this is the need for real-time detection systems that can be used during a live endoscopy procedure. In addition to using the development dataset to develop a polyp segmentation model, this task also requires the participants to submit a Docker image of their implementation to be evaluated on the organizers' hardware. The Docker submission should generate a \textit{.csv} submission file that contains the name of the segmented image and the time (in seconds) used to perform the segmentation.
+The efficient segmentation task aims for efficient segmentation systems while still obtaining a satisfactory prediction accuracy. Model efficiency is measured in the number of frames that a model can process per second. The motivation behind this is the need for real-time detection systems that can be used during a live endoscopy procedure. In addition to using the development dataset to develop a polyp segmentation model, this task also requires the participants to submit a Docker image of their implementation to be evaluated on the organizers' hardware. The Docker submission should generate a .csv submission file that contains the name of the segmented image and the time (in seconds) used to perform the segmentation.
 
 Models will be evaluated based on the performance metrics used to evaluate the polyp segmentation task and the number of frames that can be segmented per second. Submission will be ranked based on a balanced metric between predictive performance and speed. All submissions are evaluated on what can be considered consumer-grade hardware, that is, a computer running Arch Linux with an Intel Core i9-10900K processor, an Nvidia GeForce RTX 3090 graphics processing unit (GPU), and 32 gigabytes of RAM.
 
@@ -37,7 +37,6 @@ Submissions to this task will be evaluated by a committee comprised of computer 
 | | | 
 
 ### Development Dataset (Released)
-
 The development dataset consists of 1,360 images of polyps with corresponding segmentation masks. Note that the dataset is based on HyperKvasr, a large public dataset contrainig diverse visual content from the gastrointestinal tract. Below you will find a link to the development dataset and HyperKvasir.
 
 * [Development Dataset (Google Drive)](https://drive.google.com/drive/folders/16MdULl8bNX3wp0OzjU33BV6EJ_YScyGd?usp=sharing)
