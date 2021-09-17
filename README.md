@@ -48,6 +48,7 @@ The testing dataset will be released on October 1st.
 * Steven Hicks, SimulaMet, Norway steven (at) simula.no
 * Debesh Jha, SimulaMet, Norway  debesh (at) simula.no
 * Vajira Thambawita, SimulaMet and OsloMet, Norway 
+* Hugo Hammer, OsloMet, Norway 
 * Thomas de Lange, Bærum Hospital, Norway
 * Sravanthi Parasa, Swedish Medical Center, Sweden
 * Michael Riegler, SimulaMet, Norway  
