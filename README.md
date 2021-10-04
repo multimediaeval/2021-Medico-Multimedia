@@ -37,7 +37,7 @@ Submissions to this task will be evaluated by a committee comprised of computer 
 | | | 
 
 ### Development Dataset (Released)
-The development dataset consists of 1,360 images of polyps with corresponding segmentation masks. Note that the dataset is based on HyperKvasr, a large public dataset contrainig diverse visual content from the gastrointestinal tract. Below you will find a link to the development dataset and HyperKvasir.
+The development dataset consists of 1,360 images of polyps with corresponding segmentation masks. Note that the dataset is based on HyperKvasr, a large public dataset contrainig diverse visual content from the gastrointestinal tract. Below you will find a link to the development dataset.
 
 * [Development Dataset (Google Drive)](https://drive.google.com/drive/folders/16MdULl8bNX3wp0OzjU33BV6EJ_YScyGd?usp=sharing)
 
