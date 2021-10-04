@@ -41,8 +41,9 @@ The development dataset consists of 1,360 images of polyps with corresponding se
 
 * [Development Dataset (Google Drive)](https://drive.google.com/drive/folders/16MdULl8bNX3wp0OzjU33BV6EJ_YScyGd?usp=sharing)
 
-### Test Dataset (Coming Soon)
-The testing dataset will be released on October 1st.
+### Test Dataset (Released)
+
+* [Test Dataset (Google Drive)](https://drive.google.com/drive/folders/1FYxfQ89hMahqAQQjVzaeBSX1o2TL8b2B?usp=sharing)
 
 ### Task Organizers
 * Steven Hicks, SimulaMet, Norway steven (at) simula.no
