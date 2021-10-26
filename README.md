@@ -32,6 +32,7 @@ Submissions to this task will be evaluated by a committee comprised of computer 
 | 1 July, 2021 | Development data release | 
 | 1 October, 2021 | Test data release | 
 | 1 November, 2021 | Runs due | 
+| 7 November, 2021 | Results returned | 
 | 22 November, 2021 | Working notes due |
 | 6-8 December, 2021 | MediaEval 2021 Workshop |
 | | | 
