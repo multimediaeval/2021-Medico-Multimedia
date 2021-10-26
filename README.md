@@ -45,6 +45,9 @@ The development dataset consists of 1,360 images of polyps with corresponding se
 
 * [Test Dataset (Google Drive)](https://drive.google.com/drive/folders/1FYxfQ89hMahqAQQjVzaeBSX1o2TL8b2B?usp=sharing)
 
+### How to Submit
+Your runs can be submitted by emailing steven@simula.no.
+
 ### Task Organizers
 * Steven Hicks, SimulaMet, Norway steven (at) simula.no
 * Debesh Jha, SimulaMet, Norway  debesh (at) simula.no
